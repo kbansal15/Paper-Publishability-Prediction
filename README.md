@@ -1,10 +1,4 @@
 # KHARAGPUR DATA SCIENCE HACKATHON
-# TEAM: *NEURAL NAVIGATORS*
-### Members:
-1. Mauryavardhan Singh(Leader)
-2. Shubham Kumar Mandal
-3. Hardik Mahawar
-4. Ayushman Paul
 
 ## Task 1: Paper Publishability Prediction 
 
@@ -178,5 +172,6 @@ project/
 - Extend support for additional research domains.
 - Enhance model accuracy and speed.
 - Integrate more advanced NLP techniques.
+
 
 
